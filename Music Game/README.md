@@ -71,6 +71,6 @@ Replace this with your paragraph(s).
 
 Replace this with your images and paragraphs.
 
-
+![test melon](http://cdn1.medicalnewstoday.com/content/images/articles/266/266886/watermelon.jpg)
 
 
