@@ -29,48 +29,35 @@ Modify this document and add your responses to the following prompts below.
 
 ### What problem will your application solve?
 
-*Write a paragraph to describe the utility of your application. This applies equally for games. When would someone use your application? Why would they use your application?*
+My game is intended to be something that can be played quickly and is engaging for short periods of time, making it perfect for subway rides, breaks, or any other short periods of time where one may be bored.
 
-Replace this with your paragraph(s).
 
 ### What is your inspiration for this project?
 
 *Have you seen another application that you wish to improve on? Has someone asked you to create this?*
-
-Replace this with your paragraph(s).
+Back when I was about 10(?) years old me and my sister found the game Tap Tap Revenge, which was our favourite thing to play against each other. About a year or two ago I believe that the app was taken down from the store for lack of updates, and I wish to re-create it for nostalgic reasons.
 
 ### What is your prior experience in this area?
 
-*Have you written an application like this before? Have you made use of any required APIs before?*
-
-Replace this with your paragraph(s).
+I have worked briefly with SpriteKit and have made apps for iOS.
 
 ### What are skills do you hope to acquire by completing this project?
 
 *For example, you might be writing a networked application for the first time. Or, you may be writing an application that requires a particularly well designed user interface. Describe what you expect to learn by writing this application.*
-
-Replace this with your paragraph(s).
+I wish to learn the basics of SpriteKit and touch gesture recognition, as these appear to be key features to and graphics have iOS application.
 
 ### What dependencies, if any, will be required to complete your project?
 
-*If you are writing a networked application, you might be using an API like Alamofire to simplify that part of the implementation. If you are writing an application that communicates over Bluetooth, you may be using the Core Bluetooth framework. Please list any expected dependencies for your project.*
-
-Replace this with your paragraph(s).
+SpriteKit and some audio player.
 
 ### Rate the personal difficulty level of this project.
 
-Replace this with your paragraph(s).
+I believe that this will be tough enough to provide a challenge but easy enough to be definitely doable.
 
 ### Identify what you think your biggest challenge for successfully completing this ISP will be.
 
-Replace this with your paragraph(s).
+If I get far in, to have the audio be read and a sequence automatically generated.
 
 ### Make storyboards to indicate the user interface and/or functionality of your application.
 
-*In the section below, sketch out a plan for your application. This is where you will spend the majority of your time in completing the ISP proposal. Think through what you hope to create and as needed, adjust your responses to the questions above.*
-
-Replace this with your images and paragraphs.
-
-
-
-
+![Start Screen]()
