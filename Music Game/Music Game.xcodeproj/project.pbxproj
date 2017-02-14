@@ -17,6 +17,11 @@
 		C66D304D1E51F77A00DA8BCC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C66D304B1E51F77A00DA8BCC /* LaunchScreen.storyboard */; };
 		C66D30581E51F77A00DA8BCC /* Music_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66D30571E51F77A00DA8BCC /* Music_GameTests.swift */; };
 		C66D30631E51F7F700DA8BCC /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = C66D30621E51F7F700DA8BCC /* README.md */; };
+		C6AA49DC1E52C243000FB344 /* IMG_0114.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C6AA49D71E52C243000FB344 /* IMG_0114.JPG */; };
+		C6AA49DD1E52C243000FB344 /* IMG_0115.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C6AA49D81E52C243000FB344 /* IMG_0115.JPG */; };
+		C6AA49DE1E52C243000FB344 /* IMG_0116.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C6AA49D91E52C243000FB344 /* IMG_0116.JPG */; };
+		C6AA49DF1E52C243000FB344 /* IMG_0117.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C6AA49DA1E52C243000FB344 /* IMG_0117.JPG */; };
+		C6AA49E01E52C243000FB344 /* IMG_0118.JPG in Resources */ = {isa = PBXBuildFile; fileRef = C6AA49DB1E52C243000FB344 /* IMG_0118.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +49,11 @@
 		C66D30571E51F77A00DA8BCC /* Music_GameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music_GameTests.swift; sourceTree = "<group>"; };
 		C66D30591E51F77A00DA8BCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C66D30621E51F7F700DA8BCC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C6AA49D71E52C243000FB344 /* IMG_0114.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0114.JPG; sourceTree = "<group>"; };
+		C6AA49D81E52C243000FB344 /* IMG_0115.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0115.JPG; sourceTree = "<group>"; };
+		C6AA49D91E52C243000FB344 /* IMG_0116.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0116.JPG; sourceTree = "<group>"; };
+		C6AA49DA1E52C243000FB344 /* IMG_0117.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0117.JPG; sourceTree = "<group>"; };
+		C6AA49DB1E52C243000FB344 /* IMG_0118.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0118.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +122,11 @@
 			isa = PBXGroup;
 			children = (
 				C66D30621E51F7F700DA8BCC /* README.md */,
+				C6AA49D71E52C243000FB344 /* IMG_0114.JPG */,
+				C6AA49D81E52C243000FB344 /* IMG_0115.JPG */,
+				C6AA49D91E52C243000FB344 /* IMG_0116.JPG */,
+				C6AA49DA1E52C243000FB344 /* IMG_0117.JPG */,
+				C6AA49DB1E52C243000FB344 /* IMG_0118.JPG */,
 			);
 			name = Documentation;
 			sourceTree = "<group>";
@@ -201,11 +216,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6AA49DF1E52C243000FB344 /* IMG_0117.JPG in Resources */,
 				C66D30481E51F77A00DA8BCC /* Main.storyboard in Resources */,
 				C66D303F1E51F77A00DA8BCC /* GameScene.sks in Resources */,
+				C6AA49E01E52C243000FB344 /* IMG_0118.JPG in Resources */,
 				C66D304A1E51F77A00DA8BCC /* Assets.xcassets in Resources */,
+				C6AA49DC1E52C243000FB344 /* IMG_0114.JPG in Resources */,
+				C6AA49DD1E52C243000FB344 /* IMG_0115.JPG in Resources */,
 				C66D304D1E51F77A00DA8BCC /* LaunchScreen.storyboard in Resources */,
 				C66D30411E51F77A00DA8BCC /* Actions.sks in Resources */,
+				C6AA49DE1E52C243000FB344 /* IMG_0116.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -436,6 +456,7 @@
 				C66D305E1E51F77A00DA8BCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C66D305F1E51F77A00DA8BCC /* Build configuration list for PBXNativeTarget "Music GameTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +465,7 @@
 				C66D30611E51F77A00DA8BCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
